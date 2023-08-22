@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5cb6840cda84be84dbbfda928c378e0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthslider: {instanceID: 0}
+  - deadEnemy0: {fileID: 9124725858792503608, guid: 36220ed5a1754504abf3d568693ab323, type: 3}
+  - deadEnemy1: {instanceID: 0}
+  - deadEnemy2: {instanceID: 0}
+  - deadEnemy3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
